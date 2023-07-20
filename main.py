@@ -30,5 +30,5 @@ print(num1,'x',num2,'=',res)
 res = div_func(num1, num2)
 print(num1,'/',num2,'=',res)
 
-res = sq_func(num1, num2)
-print(num1,'x',num2,'=',res)
+res = sq_func(num1)
+print(num1,'x',num1,'=',res)
